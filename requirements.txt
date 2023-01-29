@@ -1,6 +1,6 @@
 dash
 pandas
-import plotly.express
-import plotly.graph_objects
+plotly.express
+plotly.graph_objects
 folium
 gunicorn
